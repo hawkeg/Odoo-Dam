@@ -1,5 +1,6 @@
+<div dir="rtl">
 
-**إنشاء تطبيق توصيل Floor -App**
+# إنشاء تطبيق توصيل Floor -App
 
 > من قائمة Configuration 🡪 Floor Plans
 
@@ -12,3 +13,5 @@
     ، اسم التطبيق) المعرف سابقا في شاشة Partners
 
 ![image](media/media/image12.png)
+
+</div>

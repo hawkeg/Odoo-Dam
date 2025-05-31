@@ -1,6 +1,8 @@
+<div dir="rtl">
+
 **إنشاء طريقة دفع Payment Methods**
 
-> ![image](media/media/image13.png)
+![image](media/media/image13.png)
 > أنواع طرق الدفع :\
 > 1- Cash نقدي
 >
@@ -62,4 +64,4 @@
 
 ![image].(media/media/image17.png)
 
-
+</div>
